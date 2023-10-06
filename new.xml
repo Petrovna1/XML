@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+ <first_name>Viktoria</first_name>
+ <middle_name>Petrovna</middle_name>
+ <last_name>Gubenok</last_name>
+ <age>24</age>
+ <pets>0</pets>
+ <salary>1000$</salary>
+</person>
