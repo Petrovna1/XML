@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bag_report>
+<Heading>При добавлении товара в корзину, цена не обновляется </Heading>
+<Description> При добавлении товара в корзину, общая цена в корзине не обновляется </Description>
+<Playback_Step1> Открыть страницу товара</Playback_Step1>
+<Playback_Step2> Нажать на кнопку «Добавить в корзину</Playback_Step2>
+<Playback_Step3> Открыть корзину </Playback_Step3>
+<Expected_result>Общая цена в корзине обновляется, учитывая стоимость добавленного товара</Expected_result>
+<Actual_result>Общая цена в корзине не обновляется</Actual_result>    
+</Bag_report>
